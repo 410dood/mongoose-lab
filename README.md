@@ -192,7 +192,7 @@ Make sure you look back to the notes or the Mongoose documentation for info on i
   * For reference take a look at the starter code we gave you to see how books was created.
   * Follow along with the instructions to connect your new resource to your database.
 
-## :trophy: :trophy: Super Bonus! / More Practice :trophy: :trophy: 
+## 9. :trophy: :trophy: Super Bonus! / More Practice :trophy: :trophy: 
 - Create a third resource for your app!
 
 ## Check out the docs in case you need more help
