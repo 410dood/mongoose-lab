@@ -191,7 +191,7 @@ Make sure you look back to the notes or the Mongoose documentation for info on i
   * You will need to build out all the respective files and directories to support your additional resource.
   * For reference take a look at the starter code we gave you to see how books was created.
   * Follow along with the instructions to connect your new resource to your database.
-<hr>
+
 ## :trophy: :trophy: Super Bonus! / More Practice :trophy: :trophy: 
 - Create a third resource for your app!
 
