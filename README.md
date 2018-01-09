@@ -7,9 +7,7 @@
 
 ## 0. Set up your app
 
-1. Fork and clone this repository.
-
-2. Make a branch for your work using the command `git checkout -b my-work-sprint-1`. This branch will house the work that you have done on sprint 1.
+1. Clone this repository. You can also fork, then clone so you'll already have a copy of it on your remote
 
 ## 1. You awake inside a new app and look around.
 
