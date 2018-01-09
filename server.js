@@ -6,6 +6,7 @@
 //  SETUP and CONFIGURATION
 /////////////////////////////
 
+
 //require express in our app
 var express = require('express'),
   bodyParser = require('body-parser');
@@ -18,6 +19,9 @@ app.use(express.static('public'));
 
 // body parser config to accept our datatypes
 app.use(bodyParser.urlencoded({ extended: true }));
+
+//initialize variable to use for our environment port
+var port = 3000;
 
 
 
@@ -133,6 +137,6 @@ app.delete('/api/books/:id', function (req, res) {
 
 
 
-app.listen(process.env.PORT || 3000, function () {
-  console.log('Book app listening at http://localhost:3000/');
+app.listen(port, ()=> {
+  console.log(`App is locked and loaded on ${port}`);
 });
