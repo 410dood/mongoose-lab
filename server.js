@@ -86,7 +86,7 @@ app.get('/api/books/:id', function (req, res) {
   // find one book by its id
   console.log('books show', req.params);
   for(var i=0; i < books.length; i++) {
-    if (books[i]._id === req.params.id) {
+    if (books[i]._id == req.params.id) {
       res.json(books[i]);
       break; // we found the right book, we can stop searching
     }
