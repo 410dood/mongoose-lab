@@ -7,7 +7,8 @@
 
 ## 0. Set up your app
 
-1. Clone this repository. You can also fork, then clone so you'll already have a copy of it on your remote
+1. Clone this repository. 
+- _You can also fork, then clone so you'll already have a copy of it on your remote repo!_
 
 ## 1. You awake inside a new app and look around.
 ![Steve](https://media.giphy.com/media/BPfKqCTZhLI6A/giphy.gif)
@@ -184,6 +185,21 @@ Make sure you look back to the notes or the Mongoose documentation for info on i
 * `new`
 * `save`
 
+## 8. :trophy: Bonus / Homework! :trophy:
+- Once you've made it to this point you can begin your homework, which will be a continuation of this lab :sunglasses:
+  * Inside of this same app, go ahead and create an entirely new resource to compliment your books resource!
+  * You will need to build out all the respective files and directories to support your additional resource.
+  * For reference take a look at the starter code we gave you to see how books was created.
+  * Follow along with the instructions to connect your new resource to your database.
+<hr>
+## :trophy: :trophy: Super Bonus! / More Practice :trophy: :trophy: 
+- Create a third resource for your app!
+
+## Check out the docs in case you need more help
+- [Mongoose](http://mongoosejs.com/)
+- [MongoDB](https://docs.mongodb.com/?_ga=2.45965741.804317922.1515520104-72848172.1515520104)
+- [Building CRUD Express App with MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
+- [More examples with Express and MongoDB / Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
 
 
 ![the office](https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif)
