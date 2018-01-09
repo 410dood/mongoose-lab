@@ -10,6 +10,7 @@
 1. Clone this repository. You can also fork, then clone so you'll already have a copy of it on your remote
 
 ## 1. You awake inside a new app and look around.
+![Steve](https://media.giphy.com/media/BPfKqCTZhLI6A/giphy.gif)
 
 1. Take a few minutes to familiarize yourself with your surroundings and navigate the file structure of this app.  You should see a few routes listed in `server.js`; a basic front-end using them, a few files in public including your front-end JavaScript.  
   > "Hmm", you think to yourself, "this app seems to be a books app."
